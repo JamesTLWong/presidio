@@ -1,0 +1,11 @@
+new check
+origin	git@github.com:JamesTLWong/presidio.git (fetch)
+origin	git@github.com:JamesTLWong/presidio.git (push)
+0
+text: My name is JamesTLWong, JamesTLWong
+items:
+[
+    {'start': 24, 'end': 35, 'entity_type': 'PERSON', 'text': 'JamesTLWong', 'operator': 'replace'},
+    {'start': 11, 'end': 22, 'entity_type': 'PERSON', 'text': 'JamesTLWong', 'operator': 'replace'}
+]
+
